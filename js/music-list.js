@@ -11,122 +11,122 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "Bones",
+    artist: "Imagine Dragons",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Hall of Fame (feat. will.i.am)",
+    artist: "The Script, will.i.am",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Stronger",
+    artist: "TheFatRat, Slaydit, Anjulie",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Enemy",
+    artist: "Imagine Dragons, JID, Arcane, League of Legends",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "Unity",
+    artist: "TheFatRat",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Believer",
+    artist: "Imagine Dragons",
     img: "music-6",
     src: "music-6"
   },
   {
-    name: "Alan Walker - Faded",
-    artist: "ImanbekMusic",
+    name: "Faded",
+    artist: "Alan Walker",
     img: "music-7",
     src: "music-7"
   },
   {
-    name: "Feat.Au/Ra and Tomine Harket",
-    artist: "Alan Walker",
+    name: "Alone",
+    artist: "Marshmello",
     img: "music-8",
     src: "music-8"
   },
   {
-    name: "MIC Drop(Steve Aoki Remix)",
-    artist: "HYBE LABELS",
+    name: "Fearless",
+    artist: "Lost Sky",
     img: "music-9",
     src: "music-9"
   },
   {
-    name: "BTS(방탄소년단)'Butter' ",
-    artist: "HYBE LABELS",
+    name: "Alone",
+    artist: "Alan Walker",
     img: "music-10",
     src: "music-10"
   },
   {
-    name: "BTS(방탄소년단)'Dynamite' ",
-    artist: "HYBE LABELS",
+    name: "Darkside",
+    artist: "Alan Walker",
     img: "music-11",
     src: "music-11"
   },
   {
-    name: "DAOKO×Kenshi Yonezu -Fireworks",
-    artist: "Daoko",
+    name: "Heroes Tonight",
+    artist: "Janji, Johnning",
     img: "music-12",
     src: "music-12"
   },
   {
-    name: "Teri Mitti - Kesari ",
-    artist: " Zee Music Company",
+    name: "Legends Never Die",
+    artist: "League of Legends, Against The Current",
     img: "music-13",
     src: "music-13"
   },
   {
-    name: "KHAIRIYAT(BONUS TRACK)-CHHICHHORE",
-    artist: "T-Series",
+    name: "Unstoppable",
+    artist: "The Score",
     img: "music-14",
     src: "music-14"
   },
   {
-    name: "Waka Waka(This Time for Africa)",
-    artist: "Shakira",
+    name: "Spectre",
+    artist: "Alan Walker",
     img: "music-15",
     src: "music-15"
   },
   {
-    name: "Phao-2 Phut Hon(KAIZ Remix)",
-    artist: "Light Night Music",
+    name: "No No No",
+    artist: "TheFatRat",
     img: "music-16",
     src: "music-16"
   },
   {
-    name: "スパークル - Your name",
-    artist: "Radwimps",
+    name: "Monody (feat. Laura Brehm)",
+    artist: "TheFatRat, Laura Brehm",
     img: "music-17",
     src: "music-17"
   },
   {
-    name: "Ed Sheeran - Shape of You",
-    artist: "Ed Sheeran",
+    name: "Born For This",
+    artist: "The Score",
     img: "music-18",
     src: "music-18"
   },
   {
-    name: "Sia - Unstoppable ",
-    artist: "Loku",
+    name: "Fly Away",
+    artist: "TheFatRat, Anjulie",
     img: "music-19",
     src: "music-19"
   },
   {
-    name: "Bhaag Milkha Bhaag - Zinda ",
-    artist: "SonyMusicIndiaVEVO",
+    name: "The Final Countdown",
+    artist: "Europe",
     img: "music-20",
     src: "music-20"
   },
